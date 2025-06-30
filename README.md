@@ -50,7 +50,7 @@ A smart and intuitive **gesture-based control system** built using **OpenCV**, *
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/Gesture-Controlled-Virtual-Mouse.git
+git clone https://github.com/Arya182-ui/Gesture-Virtual-Mouse
 cd Gesture-Virtual-Mouse
 
 # Install dependencies
