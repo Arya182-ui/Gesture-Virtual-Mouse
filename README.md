@@ -36,9 +36,13 @@ A smart and intuitive **gesture-based control system** built using **OpenCV**, *
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Demo
 
-![Gesture Control Demo](Demo%20Gif/your-demo.gif)
+![Gesture Control Demo](Demo%20Media/Volume%20Control.gif)
+
+
+## You Can check out all aother Commands in Demo Media 
+
 
 ---
 
