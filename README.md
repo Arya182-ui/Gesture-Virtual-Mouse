@@ -56,6 +56,9 @@ cd Gesture-Virtual-Mouse
 # Install dependencies
 pip install -r requirements.txt
 
+# Go Src Folder
+cd src
+
 # Run the app
 python gesture_gui.py
 ```
